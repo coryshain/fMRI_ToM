@@ -1,0 +1,159 @@
+TOM01
+Jane thinks that the train station is painted red.
+Recently, the station was repainted brown.
+When asked for directions to the station, Jane says to look for the red building.
+
+TOM02
+Last night, Tom saved an essay on his computer.
+This morning, a virus wiped out Tom's hard drive, but he didn't notice.
+Later on, he tells his professor that the essay is almost done.
+
+TOM03
+Amy and her boyfriend fought last night.
+This morning Amy's roommate bought herself some flowers.
+When Amy came home and saw the flowers, she forgave her boyfriend.
+
+TOM04
+A red patch covers Abby's arm after her beach vacation in Hawaii.
+She worries that it's skin cancer.
+Actually, the patch is simply a sunburn that she acquired while tanning.
+
+TOM05
+While on a cruise, John can't access the news.
+During his trip, a civil war begins in his homeland.
+In describing how things are in his homeland, he says that it's calm as usual.
+
+TOM06
+Kim's favorite restaurant is Salts.
+Recently, Salts moved from Center street to Gates avenue, but Kim doesn't realize this.
+Today, Kim tells Anna that Center street has terrific cuisine.
+
+TOM07
+At the zoo, Jane sees the sign that says 'penguins.'
+This month, geese are being held in this pond.
+Jane hasn't seen either bird before, and thinks these birds are penguins.
+
+TOM08
+Toby has always liked the snackfood called 'goldfish'.
+He asked his mother to buy some goldfish while shopping.
+Toby's mother came home with real pet fish.
+
+TOM09
+There is a single cloud in the sky.
+John looks outside and sees that the sun is blocked by a cloud.
+He decides to carry an umbrella today, thinking it might rain.
+
+TOM10
+Grace is viewing modern art at a museum.
+She spots a shirt on the floor, and thinks it's a postmodern piece.
+In fact, a child left his shirt at the museum earlier.
+
+TOM11
+On the weekend, Tommy visits the new magic shop.
+He notices a row of brown books, and wonders why they're there.
+In fact, they're handmade book safes, with hidden compartments.
+
+TOM12
+Allison is checking her test results online.
+Because of a clerical error, Allison's results were entered incorrectly.
+She sees that she got an A, and feels relieved and overjoyed.
+
+TOM13
+The store is run by a cunning counterfeit jeweler, and all the jewels are glass.
+Dina just bought a beautiful ring here.
+She paid eight hundred dollars for it.
+
+TOM14
+Larry is writing about a debated topic.
+Recent news said that the debate had been solved, but Larry never read it.
+His paper claims that the topic is under heated debate.
+
+TOM15
+Nathan reads in the daily newspaper that Jackson has been elected governor.
+He writes a long blog post about the outcome.
+In fact, the article was wrong, and Jackson had forfeited the race.
+
+TOM16
+Bob is searching for food products without gluten, because of allergies.
+He sees the word 'gluten' on a box of cereal, and doesn't buy it.
+In fact, it said 'gluten-free.'
+ 
+PHYS01
+It's seven at night, and Main street is dark and empty.
+Suddenly, the streetlights begin to turn on, one by one.
+The ornate lamps now fill the street with light.
+
+PHYS02
+The beaker on the desk contains a liquid mixture of compounds A and B.
+The compounds react with each other over time.
+The liquid slowly turns from white to light blue.
+
+PHYS03
+An iron sculpture stands in the backyard of the church.
+The sculpture is silver at first, but over time, the metal rusts and changes color.
+The structure has turned brown after a year.
+
+PHYS04
+The garden contains a line of bushes with bell peppers.
+The unripened peppers have a green color at first.
+As the peppers mature, they change from green to yellow, and then to red.
+
+PHYS05
+A bunch of bananas sits on the kitchen table in an empty house.
+The bananas go bad over the course of the week, and become discolored.
+They are black in color after several days.
+
+PHYS06
+A raw potato sits on a rock in the desert.
+The sun beams down upon the vegetable, and it slowly cooks.
+The potato is soft and fully baked by the afternoon, with crispy skin.
+
+PHYS07
+A computer sits on the desk in the study.
+It gets too hot during the night, and the processor and drives stop working.
+In the morning, the computer no longer functions.
+
+PHYS08
+In the study, the walls are filled with shelves of books about science.
+The books were brand new at first, with crisp white pages.
+However, the pages have all turned yellow or brown by now.
+
+PHYS09
+The trees in the wildlife preserve have bright green leaves during the spring.
+But the leaves change color as the season turns.
+All of the leaves are bright red and yellow by October.
+
+PHYS10
+There is wet paint on the walls of the house.
+The liquid in the paint slowly evaporates during the day.
+Finally, the walls are dry and ready for another coat.
+
+PHYS11
+Most stars are colored yellow or orange during their lifetime.
+These stars run out of hydrogen after billions of years.
+The stars turn red at this point, as they release less energy.
+
+PHYS12
+A dead tree lies on the ground in the forest.
+Over time, the wood becomes covered with fungi, and begins to rot.
+Soon, the wood is soft and has white and brown patches.
+
+PHYS13
+A sheet of photographic paper is left out on a bench in the park.
+The sunlight gradually exposes the sheet.
+The paper changes from white to pitch black after several hours.
+
+PHYS14
+A bright red t-shirt has been lying on the ground in the park for several weeks now.
+The sunlight has begun to bleach the shirt, removing its color.
+The shirt is nearly pink by now.
+
+PHYS15
+A bottle of milk sits in the fridge in the kitchen.
+The bottle is open, and quickly begins to go bad.
+It becomes thick and yellow after a month, and smells sour.
+
+PHYS16
+A wet sweater sits on a chair in the bedroom.
+Throughout the day, beams of sunlight shine on the sweater through a window.
+The sweater is completely dry by nightfall.
