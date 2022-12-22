@@ -15,7 +15,8 @@ For example, to generate plots of the distribution of linguistic features among 
 
     python -m fmri_tom.analyze_items
 
-Scripts assume that source data are located at `../../data/fMRI_ToM/` relative to this directory.
+All source data are available on [OSF](https://osf.io/bzwm8/).
+Scripts assume that source data are located at `../../data/fMRI_ToM/` relative to this directory, and that the directory is structured as it is on OSF.
 To point them to a different directory, replace the path above with the correct path in each script.
 
 The following subsections describe the function of each script.
