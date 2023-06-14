@@ -122,6 +122,10 @@ plt.savefig('alice_corr.png', dpi=300)
 
 plt.close('all')
 
+index = ['-'.join(x) for x in rois]
+df = pd.DataFrame(R, index=index, columns=index)
+df.to_csv('alice_corr.csv')
+
 
 
 # Plot correlation barplot
